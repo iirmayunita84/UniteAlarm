@@ -1,0 +1,102 @@
+📦 Setelah Instalasi
+
+UniteAlarm akan:
+
+Terpasang di Program Files
+
+Membuat shortcut di Desktop & Start Menu
+
+Menyimpan data secara otomatis di AppData (aman)
+
+Tidak perlu pengaturan tambahan.
+
+▶️ Cara Membuka Aplikasi
+
+Klik UniteAlarm Panel di Desktop
+atau
+
+Start Menu → UniteAlarm Panel
+
+🔔 Cara Mengatur & Menggunakan Alarm
+1️⃣ Menambah Jadwal
+
+Isi kolom:
+
+Jam (HH:MM) → contoh: 07:00
+
+File Suara → pilih dari daftar
+
+Pesan → isi pengingat
+
+Klik Tambah
+
+✅ Jadwal langsung tersimpan otomatis
+❌ Tidak perlu tombol Save
+
+2️⃣ Edit Jadwal dengan Cepat
+
+Klik 2x (double click) pada tabel jadwal
+
+Edit langsung di kolom
+
+Tekan Enter → tersimpan otomatis
+
+3️⃣ Preview Suara
+
+Pilih file suara
+
+Klik Preview
+
+Jika terdengar → format sudah benar 👍
+
+4️⃣ Menjalankan Alarm
+
+Klik Jalankan Alarm
+
+Aplikasi boleh diminimalkan
+
+UniteAlarm tetap berjalan di background
+
+5️⃣ Mode Libur 💤
+
+Klik tombol Libur
+
+Alarm tidak akan berbunyi
+
+Klik lagi untuk kembali aktif
+
+Cocok untuk hari libur atau istirahat.
+
+🔊 Format Suara yang Didukung
+
+UniteAlarm hanya mendukung format berikut:
+
+✔ WAV
+✔ PCM
+✔ 16-bit
+✔ 44.100 Hz
+
+❌ MP3 tidak langsung didukung
+
+💡 Gunakan converter (Convertio / CloudConvert) dengan setting:
+
+Audio Codec: PCM
+
+Bit Depth: 16-bit
+
+Sample Rate: 44100 Hz
+
+📁 Lokasi Penyimpanan Data
+
+Semua data disimpan otomatis di:
+
+C:\Users\<NamaUser>\AppData\Roaming\UniteAlarm\
+
+
+Isi:
+
+jadwal.json → data jadwal
+
+libur.txt → status mode libur
+
+⚠️ Jangan menghapus file ini kecuali ingin reset jadwal.

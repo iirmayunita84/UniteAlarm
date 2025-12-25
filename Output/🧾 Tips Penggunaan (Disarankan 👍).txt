@@ -1,0 +1,67 @@
+💡 Tips 1 — Gunakan Jam Tepat
+
+Gunakan format HH:MM (24 jam).
+Contoh benar:
+
+07:00
+
+13:30
+
+💡 Tips 2 — Tes Suara Sekali
+
+Setelah menambah suara baru:
+
+Klik Preview
+
+Kalau bunyi → aman dipakai
+
+Ini mencegah alarm gagal bunyi.
+
+💡 Tips 3 — Jangan Tutup Paksa
+
+Menutup dengan tombol ❌ akan:
+
+Meminimalkan ke background
+
+Alarm tetap aktif
+
+Kalau ingin benar-benar keluar:
+
+Tutup lewat tray / exit menu (jika ada)
+
+💡 Tips 4 — Backup Jadwal
+
+Untuk jaga-jaga:
+
+Salin file jadwal.json
+
+Simpan di flashdisk / cloud
+
+Kalau ganti PC → tinggal copy balik.
+
+💡 Tips 5 — Mode Libur Itu Teman
+
+Kalau lagi capek:
+
+Aktifkan Mode Libur
+
+Tidak perlu hapus jadwal
+
+Alarm tetap rapi, kamu tetap tenang 😄
+
+❌ Cara Uninstall
+
+Control Panel → Programs
+
+Pilih UniteAlarm
+
+Klik Uninstall
+
+Semua file & data akan terhapus otomatis.
+
+❤️ Penutup
+
+UniteAlarm dibuat agar aktivitas harian lebih teratur tanpa ribet.
+Kalau alarm bunyi tepat waktu, berarti dia lagi kerja 🤍🔔
+
+— uniteshoop

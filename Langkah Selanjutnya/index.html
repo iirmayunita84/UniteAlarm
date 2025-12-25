@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>UniteAlarm — Smart Desktop Alarm</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+:root {
+    --bg: #0f1115;
+    --card: #161a22;
+    --primary: #ff4d8d;
+    --text: #e6e6e6;
+    --muted: #9aa0a6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", system-ui, sans-serif;
+    background: linear-gradient(180deg, #0f1115, #12151c);
+    color: var(--text);
+}
+
+header {
+    text-align: center;
+    padding: 80px 20px 60px;
+}
+
+header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+header p {
+    color: var(--muted);
+    font-size: 18px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 14px 26px;
+    background: var(--primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 600;
+    box-shadow: 0 0 30px rgba(255,77,141,.35);
+    transition: transform .2s, box-shadow .2s;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 40px rgba(255,77,141,.6);
+}
+
+section {
+    max-width: 1100px;
+    margin: auto;
+    padding: 60px 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: var(--card);
+    padding: 24px;
+    border-radius: 14px;
+    border: 1px solid #1f2430;
+}
+
+.card h3 {
+    margin-top: 0;
+    color: var(--primary);
+}
+
+footer {
+    text-align: center;
+    padding: 30px 10px;
+    font-size: 13px;
+    color: var(--muted);
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>⏰ UniteAlarm</h1>
+    <p>Smart Desktop Alarm — Ringan, Offline, & Jalan di Background</p>
+    <a href="#download" class="btn">⬇ Download Installer</a>
+</header>
+
+<section>
+    <h2>✨ Tentang UniteAlarm</h2>
+    <p>
+        UniteAlarm adalah aplikasi alarm desktop Windows yang dibuat untuk
+        rutinitas harian: kerja, belajar, menjahit, atau pengingat pribadi.
+        Fokus pada stabilitas, hemat CPU, dan bebas ribet.
+    </p>
+</section>
+
+<section>
+    <h2>🚀 Fitur Unggulan</h2>
+    <div class="grid">
+        <div class="card">
+            <h3>🔔 Alarm Otomatis</h3>
+            <p>Alarm berbunyi tepat waktu sesuai jadwal harian.</p>
+        </div>
+        <div class="card">
+            <h3>🖥️ Background Mode</h3>
+            <p>Tutup window, alarm tetap aktif lewat system tray.</p>
+        </div>
+        <div class="card">
+            <h3>🔕 Silent Mode</h3>
+            <p>Notifikasi tanpa suara, cocok saat fokus.</p>
+        </div>
+        <div class="card">
+            <h3>📁 Audio Custom</h3>
+            <p>Gunakan file WAV milik sendiri.</p>
+        </div>
+        <div class="card">
+            <h3>🌙 Mode Libur</h3>
+            <p>Matikan alarm otomatis di hari tertentu.</p>
+        </div>
+        <div class="card">
+            <h3>⚡ Hemat CPU</h3>
+            <p>Loop pintar, tidak membebani sistem.</p>
+        </div>
+    </div>
+</section>
+
+<section id="download">
+    <h2>📦 Download</h2>
+    <p>Versi terbaru UniteAlarm untuk Windows:</p>
+    <a href="UniteAlarm_Setup_v1.0.0.exe" class="btn">
+        ⬇ UniteAlarm v1.0.0
+    </a>
+    <p style="color:var(--muted); margin-top:10px;">
+        Windows 10 / 11 · Offline · Gratis
+    </p>
+</section>
+
+<section>
+    <h2>🛡️ Keamanan & Privasi</h2>
+    <ul>
+        <li>✔ Tidak mengumpulkan data</li>
+        <li>✔ Tidak butuh internet</li>
+        <li>✔ Tidak ada iklan</li>
+    </ul>
+</section>
+
+<footer>
+    © 2025 UniteAlarm · Built with ❤️ & Python  
+</footer>
+
+</body>
+</html>

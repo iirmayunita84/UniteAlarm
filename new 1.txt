@@ -1,0 +1,14 @@
+cd /d D:\UniteAlarm
+python build_all.py
+
+
+cd /d D:\UniteAlarm
+python unitealarm_panel.py
+
+
+cd /d D:\UniteAlarm
+python unitealarm_final.py
+
+
+cd /d D:\UniteAlarm
+python make_zip.py
